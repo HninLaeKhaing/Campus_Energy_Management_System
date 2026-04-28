@@ -1,0 +1,16 @@
+{
+  "name": "campus-energy-dashboard",
+  "private": true,
+  "version": "1.0.0",
+  "main": "/src/main.jsx",
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "recharts": "2.9.0",
+    "lucide-react": "0.284.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
